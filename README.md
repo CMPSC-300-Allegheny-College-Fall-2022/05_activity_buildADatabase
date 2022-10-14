@@ -27,10 +27,10 @@ After you have pushed your work to your repository, please visit the repository 
 Please see your notes and the slides from today's course for notes on how to complete code for each of the tasks below.
 
 + Create a database to contain the following information.
- - ID
- - Organism
- - DNASeq
- - Protseq
+  - ID
+  - Organism
+  - DNASeq
+  - Protseq
 + Add at least four rows of data (this data can be real or made-up)
 + Offer two queries to two different types of information from the data.
 
