@@ -40,7 +40,7 @@ Please complete the sections of the File: `writing/reflection.md`
 
 ## GatorGrade
 
-You can check the baseline writing and commit requirements for this  assignment by running department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python3 installed (type `python --version` to check). If you do not have Python installed, please see:
+You can check the baseline writing and commit requirements for this assignment by running department's assignment checking `gatorgrade` tool. To use `gatorgrade`, you first need to make sure you have Python3 installed (type `python --version` to check). If you do not have Python installed, please see:
 
 - [Setting Up Python on Windows](https://realpython.com/lessons/python-windows-setup/)
 - [Python 3 Installation and Setup Guide](https://realpython.com/installing-python/)
